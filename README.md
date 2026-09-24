@@ -33,5 +33,3 @@ At the moment, the folder includes:
 ## Notes
 
 This is my study repository, so the code is mainly for my learning and practice. The goal is to build a strong foundation in programming by repeatedly solving exercises and documenting the work. For later reference.
-
-(test)
