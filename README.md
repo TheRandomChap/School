@@ -19,9 +19,17 @@ This makes it easier to identify what the exercise was about and when i began on
 
 At the moment, the folder includes:
 
+### Finnished
+
 - `Strings110926.ipynb` – notebook covering string-related exercises.
 - `StringsPrint010926.ipynb` – notebook focused on printing and working with strings.
-- `README.md` – overview of the project folder.
+- `Conditions250926.ipynb`- notebook focused on conditions and how to struture python.
+
+
+### In Progress
+- `lists.ipynb` - notebokk focused on lists, how to update get and understand lists
+- `dictionaries.ipynb` notebok focused on dictionaries and how they work
+- `lists.ipynb` - notebokk focused on lists, how to update get and understand lists
 
 ## How to use this folder
 
