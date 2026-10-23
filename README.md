@@ -27,8 +27,8 @@ These notebooks practise Python collections and data types:
 These files practise functions and apply them in a phonebook program:
 
 - `Functions/functions.ipynb` — function exercises, including work based on a phonebook task.
-- `Functions/Phonebook/phonebook.py` — an interactive program for adding, finding, and displaying contacts.
-- `Functions/Phonebook/phonebook.json` — the contact data loaded and saved by the phonebook program.
+-   `Functions/Phonebook/phonebook.py` — an interactive program for adding, finding, and displaying contacts.
+-   `Functions/Phonebook/phonebook.json` — the contact data loaded and saved by the phonebook program.
 
 ### Labs
 
